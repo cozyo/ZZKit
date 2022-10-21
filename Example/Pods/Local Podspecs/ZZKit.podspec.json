@@ -1,0 +1,22 @@
+{
+  "name": "ZZKit",
+  "version": "0.1.0",
+  "summary": "A short description of ZZKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jabin/ZZKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jabin": "363905263@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/jabin/ZZKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ZZKit/Classes/**/*"
+}

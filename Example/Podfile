@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ZZKit_Tests' do
+  pod 'ZZKit', :path => '../'
+  
+  
+end
